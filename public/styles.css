@@ -1,3 +1,15 @@
 body {
   text-align: center;
 }
+
+.page {
+  box-sizing: border-box;
+  padding: 5%;
+  width: 100%;
+  height: 100%;
+}
+
+#calendar {
+  max-width: 900px;
+  margin: 0 auto;
+}
