@@ -1,0 +1,19 @@
+{
+  "name": "happy-world",
+  "version": "0.2.6",
+  "description": "Static funk around app",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ny1am/happiness"
+  }
+}
