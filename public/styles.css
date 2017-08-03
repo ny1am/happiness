@@ -43,6 +43,10 @@ body {
   word-wrap: break-word;
 }
 
+.fc-today {
+  background-color: #fbf0ba!important;
+}
+
 /*bounce styles*/
 .bounce {
   -webkit-animation-name: bounce;
