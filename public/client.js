@@ -26,13 +26,15 @@ $(document).ready(function() {
       {
         title: 'шоколадний макарун зі "Світу кави"',
         dow: [0, 4],
-        color: '#fecc0c',
+        color: 'white',
+        textColor: '#542a0c',
         order: 2
       },
       {
         title: 'м\'ятний макарун зі "Світу кави"',
         dow: [0],
-        color: '#fecc0c',
+        color: 'white',
+        textColor: '#50b090',
         order: 3
       },
     ],
