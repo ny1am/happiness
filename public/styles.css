@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .page {
@@ -12,4 +13,8 @@ body {
 #calendar {
   max-width: 900px;
   margin: 0 auto;
+}
+
+.fc-day-grid-event > .fc-content {
+    white-space: normal;
 }
